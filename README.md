@@ -1,1 +1,0 @@
-Sistema de Gerenciamento de tarefas desenvolvido em Python, como trabalho final da disciplina de Algoritmos e Programação, ministrada pelo professor Andrei de Almeida Sampaio Braga na Universidade Federal da Fronteira Sul.
